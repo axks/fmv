@@ -1,1 +1,1 @@
-Sitemap: https://axks.github.io/fmv//sitemap.xml
+Sitemap: https://axks.github.io/fmv/sitemap.xml
