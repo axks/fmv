@@ -1,1 +1,1 @@
-Sitemap: https://www.firstmomentum.vc/sitemap.xml
+Sitemap: http://www.firstmomentum.com/sitemap.xml
